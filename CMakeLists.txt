@@ -16,12 +16,12 @@ set_property(GLOBAL PROPERTY PREDEFINED_TARGETS_FOLDER "")
 
 SET(
     ROOT_SOURCES
-    "dmut/src/dmut.cpp"
+    "src/dmut.cpp"
 )
 
 SET(
     ROOT_HEADERS
-    "dmut/src/dmut.h"
+    "include/dmut.hpp"
 )
 
 list(APPEND ROOT_SOURCES ${ROOT_HEADERS})

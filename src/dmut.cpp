@@ -1,7 +1,7 @@
 ﻿// dmut.cpp : Defines the entry point for the application.
 //
 
-#include "dmut.h"
+#include "../include/dmut.hpp"
 
 int main()
 {

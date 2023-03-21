@@ -7,3 +7,6 @@ CMakeCache.txt
 *.sln
 *.vs
 *.vcxproj*
+/dmut.dir/*
+/x64/*
+/Release/*

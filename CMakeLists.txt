@@ -17,10 +17,12 @@ set_property(GLOBAL PROPERTY PREDEFINED_TARGETS_FOLDER "")
 SET(
     ROOT_SOURCES
     "src/dmut.cpp"
+    "src/TestNonNullOwningPointer.cpp"
 )
 
 SET(
     ROOT_HEADERS
+    "include/ConstrainedType.hpp"
     "include/dmut.hpp"
 )
 
